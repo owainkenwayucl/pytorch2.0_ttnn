@@ -38,7 +38,7 @@ setup(
         "graphviz",
         "matplotlib==3.7.1",
         "paramiko==3.5.1",
-        "ttnn==0.62.0rc36.dev2326",
+        "ttnn==0.62.0rc36.dev2335",
     ],
     extras_require={
         "dev": [
